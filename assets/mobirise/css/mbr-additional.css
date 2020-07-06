@@ -650,7 +650,7 @@ section.lazy-placeholder:after {
 .cid-s1zOJiOyCv .btn {
   padding: 0.4rem 1.5rem;
   display: inline-flex;
-  align-items: center;
+  align-items: right;
 }
 .cid-s1zOJiOyCv .btn .mbr-iconfont {
   font-size: 1.6rem;
@@ -706,6 +706,7 @@ section.lazy-placeholder:after {
 .cid-s1zOJiOyCv .navbar-toggleable-sm .navbar-collapse .navbar-buttons {
   padding-left: 0;
   padding-bottom: 0;
+  align-self: right;
 }
 .cid-s1zOJiOyCv .dropdown .dropdown-menu {
   background: #072b4c;
