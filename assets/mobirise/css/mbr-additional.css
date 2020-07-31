@@ -703,7 +703,7 @@ section.lazy-placeholder:after {
   color: #149dcc;
   align: center;
   height: 2px;
-  opacity: 40%;
+  opacity: 70%;
   margin: 0 auto;
 }
 .cid-s66Vsfl715 .section-text {
@@ -1206,7 +1206,7 @@ section.lazy-placeholder:after {
     padding-bottom: .25rem !important;
     padding-left: 0.5rem !important;
     padding-right: 0.5rem !important;
-    background: rgba(70, 80, 82, 0.95);
+    background: rgba(239, 239, 239, 0.95);
     text-align: center;
   }
   .cid-s66yVhahNC .navbar-brand {
@@ -1333,7 +1333,7 @@ section.lazy-placeholder:after {
 @media (min-width: 992px) {
   .cid-s66yVhahNC .dropdown-menu {
     min-width: 5rem;
-    padding-top: 1.9rem !important;
+    padding-top: 1.8rem !important;
   }
 }
 @media (max-width: 991px) {
@@ -1382,7 +1382,7 @@ section.lazy-placeholder:after {
 @media (max-width: 991px) {
   .cid-s66yVhahNC .dropdown-menu,
   .cid-s66yVhahNC .navbar.opened {
-    background: rgba(91, 104, 107, 0.95) !important;
+    background: rgba(255, 255, 255, 0.95) !important;
   }
 }
 @media (min-width: 992px) {
@@ -1470,7 +1470,7 @@ section.lazy-placeholder:after {
   padding-bottom: .25rem !important;
   padding-left: 1.5rem !important;
   padding-right: 1.5rem !important;
-  background: rgba(70, 80, 82, 0.95);
+  background: rgba(239, 239, 239, 0.95);
   text-align: center;
   line-height: 1;
   transition: none;
@@ -1927,7 +1927,7 @@ section.lazy-placeholder:after {
     padding-bottom: .25rem !important;
     padding-left: 0.5rem !important;
     padding-right: 0.5rem !important;
-    background: rgba(70, 80, 82, 0.95);
+    background: rgba(239, 239, 239, 0.95);
     text-align: center;
   }
   .cid-s66yVhahNC .navbar-brand {
@@ -2054,7 +2054,7 @@ section.lazy-placeholder:after {
 @media (min-width: 992px) {
   .cid-s66yVhahNC .dropdown-menu {
     min-width: 5rem;
-    padding-top: 1.9rem !important;
+    padding-top: 1.8rem !important;
   }
 }
 @media (max-width: 991px) {
@@ -2103,7 +2103,7 @@ section.lazy-placeholder:after {
 @media (max-width: 991px) {
   .cid-s66yVhahNC .dropdown-menu,
   .cid-s66yVhahNC .navbar.opened {
-    background: rgba(91, 104, 107, 0.95) !important;
+    background: rgba(255, 255, 255, 0.95) !important;
   }
 }
 @media (min-width: 992px) {
@@ -2191,7 +2191,7 @@ section.lazy-placeholder:after {
   padding-bottom: .25rem !important;
   padding-left: 1.5rem !important;
   padding-right: 1.5rem !important;
-  background: rgba(70, 80, 82, 0.95);
+  background: rgba(239, 239, 239, 0.95);
   text-align: center;
   line-height: 1;
   transition: none;
@@ -3062,7 +3062,7 @@ section.lazy-placeholder:after {
     padding-bottom: .25rem !important;
     padding-left: 0.5rem !important;
     padding-right: 0.5rem !important;
-    background: rgba(70, 80, 82, 0.95);
+    background: rgba(239, 239, 239, 0.95);
     text-align: center;
   }
   .cid-s66yVhahNC .navbar-brand {
@@ -3189,7 +3189,7 @@ section.lazy-placeholder:after {
 @media (min-width: 992px) {
   .cid-s66yVhahNC .dropdown-menu {
     min-width: 5rem;
-    padding-top: 1.9rem !important;
+    padding-top: 1.8rem !important;
   }
 }
 @media (max-width: 991px) {
@@ -3238,7 +3238,7 @@ section.lazy-placeholder:after {
 @media (max-width: 991px) {
   .cid-s66yVhahNC .dropdown-menu,
   .cid-s66yVhahNC .navbar.opened {
-    background: rgba(91, 104, 107, 0.95) !important;
+    background: rgba(255, 255, 255, 0.95) !important;
   }
 }
 @media (min-width: 992px) {
@@ -3326,7 +3326,7 @@ section.lazy-placeholder:after {
   padding-bottom: .25rem !important;
   padding-left: 1.5rem !important;
   padding-right: 1.5rem !important;
-  background: rgba(70, 80, 82, 0.95);
+  background: rgba(239, 239, 239, 0.95);
   text-align: center;
   line-height: 1;
   transition: none;
@@ -4033,7 +4033,7 @@ section.lazy-placeholder:after {
     padding-bottom: .25rem !important;
     padding-left: 0.5rem !important;
     padding-right: 0.5rem !important;
-    background: rgba(70, 80, 82, 0.95);
+    background: rgba(239, 239, 239, 0.95);
     text-align: center;
   }
   .cid-s66yVhahNC .navbar-brand {
@@ -4160,7 +4160,7 @@ section.lazy-placeholder:after {
 @media (min-width: 992px) {
   .cid-s66yVhahNC .dropdown-menu {
     min-width: 5rem;
-    padding-top: 1.9rem !important;
+    padding-top: 1.8rem !important;
   }
 }
 @media (max-width: 991px) {
@@ -4209,7 +4209,7 @@ section.lazy-placeholder:after {
 @media (max-width: 991px) {
   .cid-s66yVhahNC .dropdown-menu,
   .cid-s66yVhahNC .navbar.opened {
-    background: rgba(91, 104, 107, 0.95) !important;
+    background: rgba(255, 255, 255, 0.95) !important;
   }
 }
 @media (min-width: 992px) {
@@ -4297,7 +4297,7 @@ section.lazy-placeholder:after {
   padding-bottom: .25rem !important;
   padding-left: 1.5rem !important;
   padding-right: 1.5rem !important;
-  background: rgba(70, 80, 82, 0.95);
+  background: rgba(239, 239, 239, 0.95);
   text-align: center;
   line-height: 1;
   transition: none;
@@ -5464,7 +5464,7 @@ section.lazy-placeholder:after {
     padding-bottom: .25rem !important;
     padding-left: 0.5rem !important;
     padding-right: 0.5rem !important;
-    background: rgba(70, 80, 82, 0.95);
+    background: rgba(239, 239, 239, 0.95);
     text-align: center;
   }
   .cid-s66yVhahNC .navbar-brand {
@@ -5591,7 +5591,7 @@ section.lazy-placeholder:after {
 @media (min-width: 992px) {
   .cid-s66yVhahNC .dropdown-menu {
     min-width: 5rem;
-    padding-top: 1.9rem !important;
+    padding-top: 1.8rem !important;
   }
 }
 @media (max-width: 991px) {
@@ -5640,7 +5640,7 @@ section.lazy-placeholder:after {
 @media (max-width: 991px) {
   .cid-s66yVhahNC .dropdown-menu,
   .cid-s66yVhahNC .navbar.opened {
-    background: rgba(91, 104, 107, 0.95) !important;
+    background: rgba(255, 255, 255, 0.95) !important;
   }
 }
 @media (min-width: 992px) {
@@ -5728,7 +5728,7 @@ section.lazy-placeholder:after {
   padding-bottom: .25rem !important;
   padding-left: 1.5rem !important;
   padding-right: 1.5rem !important;
-  background: rgba(70, 80, 82, 0.95);
+  background: rgba(239, 239, 239, 0.95);
   text-align: center;
   line-height: 1;
   transition: none;
@@ -6320,7 +6320,7 @@ section.lazy-placeholder:after {
     padding-bottom: .25rem !important;
     padding-left: 0.5rem !important;
     padding-right: 0.5rem !important;
-    background: rgba(70, 80, 82, 0.95);
+    background: rgba(239, 239, 239, 0.95);
     text-align: center;
   }
   .cid-s66yVhahNC .navbar-brand {
@@ -6447,7 +6447,7 @@ section.lazy-placeholder:after {
 @media (min-width: 992px) {
   .cid-s66yVhahNC .dropdown-menu {
     min-width: 5rem;
-    padding-top: 1.9rem !important;
+    padding-top: 1.8rem !important;
   }
 }
 @media (max-width: 991px) {
@@ -6496,7 +6496,7 @@ section.lazy-placeholder:after {
 @media (max-width: 991px) {
   .cid-s66yVhahNC .dropdown-menu,
   .cid-s66yVhahNC .navbar.opened {
-    background: rgba(91, 104, 107, 0.95) !important;
+    background: rgba(255, 255, 255, 0.95) !important;
   }
 }
 @media (min-width: 992px) {
@@ -6584,7 +6584,7 @@ section.lazy-placeholder:after {
   padding-bottom: .25rem !important;
   padding-left: 1.5rem !important;
   padding-right: 1.5rem !important;
-  background: rgba(70, 80, 82, 0.95);
+  background: rgba(239, 239, 239, 0.95);
   text-align: center;
   line-height: 1;
   transition: none;
@@ -7032,7 +7032,7 @@ section.lazy-placeholder:after {
     padding-bottom: .25rem !important;
     padding-left: 0.5rem !important;
     padding-right: 0.5rem !important;
-    background: rgba(70, 80, 82, 0.95);
+    background: rgba(239, 239, 239, 0.95);
     text-align: center;
   }
   .cid-s66yVhahNC .navbar-brand {
@@ -7159,7 +7159,7 @@ section.lazy-placeholder:after {
 @media (min-width: 992px) {
   .cid-s66yVhahNC .dropdown-menu {
     min-width: 5rem;
-    padding-top: 1.9rem !important;
+    padding-top: 1.8rem !important;
   }
 }
 @media (max-width: 991px) {
@@ -7208,7 +7208,7 @@ section.lazy-placeholder:after {
 @media (max-width: 991px) {
   .cid-s66yVhahNC .dropdown-menu,
   .cid-s66yVhahNC .navbar.opened {
-    background: rgba(91, 104, 107, 0.95) !important;
+    background: rgba(255, 255, 255, 0.95) !important;
   }
 }
 @media (min-width: 992px) {
@@ -7296,7 +7296,7 @@ section.lazy-placeholder:after {
   padding-bottom: .25rem !important;
   padding-left: 1.5rem !important;
   padding-right: 1.5rem !important;
-  background: rgba(70, 80, 82, 0.95);
+  background: rgba(239, 239, 239, 0.95);
   text-align: center;
   line-height: 1;
   transition: none;
@@ -7747,7 +7747,7 @@ section.lazy-placeholder:after {
     padding-bottom: .25rem !important;
     padding-left: 0.5rem !important;
     padding-right: 0.5rem !important;
-    background: rgba(70, 80, 82, 0.95);
+    background: rgba(239, 239, 239, 0.95);
     text-align: center;
   }
   .cid-s66yVhahNC .navbar-brand {
@@ -7874,7 +7874,7 @@ section.lazy-placeholder:after {
 @media (min-width: 992px) {
   .cid-s66yVhahNC .dropdown-menu {
     min-width: 5rem;
-    padding-top: 1.9rem !important;
+    padding-top: 1.8rem !important;
   }
 }
 @media (max-width: 991px) {
@@ -7923,7 +7923,7 @@ section.lazy-placeholder:after {
 @media (max-width: 991px) {
   .cid-s66yVhahNC .dropdown-menu,
   .cid-s66yVhahNC .navbar.opened {
-    background: rgba(91, 104, 107, 0.95) !important;
+    background: rgba(255, 255, 255, 0.95) !important;
   }
 }
 @media (min-width: 992px) {
@@ -8011,7 +8011,7 @@ section.lazy-placeholder:after {
   padding-bottom: .25rem !important;
   padding-left: 1.5rem !important;
   padding-right: 1.5rem !important;
-  background: rgba(70, 80, 82, 0.95);
+  background: rgba(239, 239, 239, 0.95);
   text-align: center;
   line-height: 1;
   transition: none;
@@ -8767,7 +8767,7 @@ section.lazy-placeholder:after {
     padding-bottom: .25rem !important;
     padding-left: 0.5rem !important;
     padding-right: 0.5rem !important;
-    background: rgba(70, 80, 82, 0.95);
+    background: rgba(239, 239, 239, 0.95);
     text-align: center;
   }
   .cid-s66yVhahNC .navbar-brand {
@@ -8894,7 +8894,7 @@ section.lazy-placeholder:after {
 @media (min-width: 992px) {
   .cid-s66yVhahNC .dropdown-menu {
     min-width: 5rem;
-    padding-top: 1.9rem !important;
+    padding-top: 1.8rem !important;
   }
 }
 @media (max-width: 991px) {
@@ -8943,7 +8943,7 @@ section.lazy-placeholder:after {
 @media (max-width: 991px) {
   .cid-s66yVhahNC .dropdown-menu,
   .cid-s66yVhahNC .navbar.opened {
-    background: rgba(91, 104, 107, 0.95) !important;
+    background: rgba(255, 255, 255, 0.95) !important;
   }
 }
 @media (min-width: 992px) {
@@ -9031,7 +9031,7 @@ section.lazy-placeholder:after {
   padding-bottom: .25rem !important;
   padding-left: 1.5rem !important;
   padding-right: 1.5rem !important;
-  background: rgba(70, 80, 82, 0.95);
+  background: rgba(239, 239, 239, 0.95);
   text-align: center;
   line-height: 1;
   transition: none;
